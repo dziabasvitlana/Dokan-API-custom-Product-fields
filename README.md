@@ -43,4 +43,4 @@ function test_dokan_update_custom_field( $product, $request, $creating ) {
 + dokan_rest_prepare_product_object
 + dokan_rest_insert_product_object
 ### Video denonstration
-[![video](http://upsite.top/wp-content/uploads/2024/01/Get_caption.png)](https://youtu.be/WjXalmz7y4c)
+[![video](http://upsite.top/wp-content/uploads/2024/01/Git_caption.png)](https://youtu.be/WjXalmz7y4c)
